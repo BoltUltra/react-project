@@ -1,4 +1,5 @@
 import { useState } from "react";
+import BlogList from "./BlogLists";
 
 const Home = () => {
   const [blogs, setBlogs] = useState([
@@ -21,7 +22,16 @@ const Home = () => {
       id: 3,
     },
   ]);
-  return <div className="home"></div>;
+
+  const handleDelete = (id) => {
+    const newBlogs = blogs.filter((blog) => blog.id !== id);
+    setBlogs(newBlogs);
+  };
+  return (
+    <div className="home">
+      <BlogList blogs={blogs} title="All Blogs" handleDelete={handleDelete} />
+    </div>
+  );
 };
 
 export default Home;
