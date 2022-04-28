@@ -18,7 +18,7 @@ const Home = () => {
     {
       title: "Web dev top tips",
       body: "lorem ipsum ...",
-      author: "Usman",
+      author: "Mayowa",
       id: 3,
     },
   ]);
