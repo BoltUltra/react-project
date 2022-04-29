@@ -62,3 +62,19 @@ body {
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+input {
+  margin-right: 5px;
+}
+
+.card-content {
+  display: flex;
+}
+
+.card {
+  margin-left: 20px;
+}
+
+.card p {
+  text-align: justify;
+}

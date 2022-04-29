@@ -1,19 +1,19 @@
-import Navbar from "./Navbar";
-import Home from "./Home";
-import DraftNavbar from "./DraftNavbar";
-import DraftContent from "./DraftContent";
-import DraftFooter from "./DraftFooter";
+// import Navbar from "./Navbar";
+// import Home from "./Home";
+
+import CardContent from "./CardContent";
+
+// import TodoList from "./Todo";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="content">
-        <Home />
-        <DraftNavbar />
-        <DraftContent />
-        <DraftFooter />
+        {/* <Home /> */}
+        {/* <TodoList /> */}
       </div>
+      <CardContent />
     </div>
   );
 }
