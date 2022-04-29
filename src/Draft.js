@@ -1,7 +1,7 @@
 const Draft = () => {
   return (
     <div>
-      <h1>Mayowa Sunusi</h1>
+      <h2>Mayowa Sunusi</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa quaerat
         voluptas praesentium, consequuntur obcaecati dolorem? Illum officia,
