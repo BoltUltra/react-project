@@ -1,5 +1,6 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
+import Draft from "../Draft";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <div className="content">
         <Home />
       </div>
+      <Draft />
     </div>
   );
 }

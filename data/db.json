@@ -1,0 +1,30 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, doloribus fugiat optio est aperiam unde, voluptatum quaerat doloremque vitae iure asperiores libero accusamus rem facilis omnis quae mollitia. Doloremque, laboriosam?
+      Accusantium laborum vero reprehenderit aperiam non cum aut quam perferendis voluptates aliquam earum recusandae assumenda dolorem ipsa accusamus suscipit deleniti, nulla quis temporibus? Blanditiis repellendus dolores, autem deserunt consectetur quis.
+      Voluptas accusantium, officia, iusto aliquam porro eligendi sapiente, aspernatur nemo nisi officiis natus vero! Aperiam numquam amet eius ipsam voluptate? Vero sint officiis quos inventore incidunt facere ex quidem numquam?
+       veritatis sequi sunt iste expedita quos, consectetur odio asperiores nostrum similique? Delectus sapiente quo quasi veritatis minima temporibus recusandae saepe suscipit necessitatibus nemo. Provident?
+      Ab facere molestias sapiente obcaecati voluptatibus autem aperiam fugiat officiis similique suscipit! Quo minima ex et aperiam error praesentium earum, non quis, ipsum id assumenda porro explicabo eum perspiciatis voluptas!
+      Ex ullam enim quae temporibus soluta excepturi minus aperiam sed hic incidunt modi eveniet molestiae iusto impedit esse tempore aut odit assumenda mollitia, ea quo repudiandae aliquam. Porro, natus totam?
+      Beatae voluptates ut, quam distinctio consequatur expedita commodi sequi aliquam nihil magni labore nesciunt quo facilis dolorem odit nobis repudiandae reprehenderit vitae, voluptatibus sed assumenda fugit dolores perspiciatis! Impedit, blanditiis.
+      Est, minima. Minus tenetur necessitatibus, reiciendis suscipit itaque placeat, tempora perferendis quasi vitae esse eum molestiae aliquam maiores culpa amet tempore atque unde deleniti nihil omnis. Eligendi repellat at ea.",
+      "author": "Mayowa",
+      "id": 1
+    },
+    {
+        "title": "Opening Party",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, doloribus fugiat optio est aperiam unde, voluptatum quaerat doloremque vitae iure asperiores libero accusamus rem facilis omnis quae mollitia. Doloremque, laboriosam?
+        Accusantium laborum vero reprehenderit aperiam non cum aut quam perferendis voluptates aliquam earum recusandae assumenda dolorem ipsa accusamus suscipit deleniti, nulla quis temporibus? Blanditiis repellendus dolores, autem deserunt consectetur quis.
+        Voluptas accusantium, officia, iusto aliquam porro eligendi sapiente, aspernatur nemo nisi officiis natus vero! Aperiam numquam amet eius ipsam voluptate? Vero sint officiis quos inventore incidunt facere ex quidem numquam?
+         veritatis sequi sunt iste expedita quos, consectetur odio asperiores nostrum similique? Delectus sapiente quo quasi veritatis minima temporibus recusandae saepe suscipit necessitatibus nemo. Provident?
+        Ab facere molestias sapiente obcaecati voluptatibus autem aperiam fugiat officiis similique suscipit! Quo minima ex et aperiam error praesentium earum, non quis, ipsum id assumenda porro explicabo eum perspiciatis voluptas!
+        Ex ullam enim quae temporibus soluta excepturi minus aperiam sed hic incidunt modi eveniet molestiae iusto impedit esse tempore aut odit assumenda mollitia, ea quo repudiandae aliquam. Porro, natus totam?
+        Beatae voluptates ut, quam distinctio consequatur expedita commodi sequi aliquam nihil magni labore nesciunt quo facilis dolorem odit nobis repudiandae reprehenderit vitae, voluptatibus sed assumenda fugit dolores perspiciatis! Impedit, blanditiis.
+        Est, minima. Minus tenetur necessitatibus, reiciendis suscipit itaque placeat, tempora perferendis quasi vitae esse eum molestiae aliquam maiores culpa amet tempore atque unde deleniti nihil omnis. Eligendi repellat at ea.",
+        "author": "Damilola",
+        "id": 2
+    }
+  ]
+}
