@@ -1,6 +1,8 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
-import Draft from "./Draft";
+import DraftNavbar from "./DraftNavbar";
+import DraftContent from "./DraftContent";
+import DraftFooter from "./DraftFooter";
 
 function App() {
   return (
@@ -8,7 +10,9 @@ function App() {
       <Navbar />
       <div className="content">
         <Home />
-        <Draft />
+        <DraftNavbar />
+        <DraftContent />
+        <DraftFooter />
       </div>
     </div>
   );
